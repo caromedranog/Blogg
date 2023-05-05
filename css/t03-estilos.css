@@ -1,0 +1,71 @@
+  
+  .imagen {
+    width: 40%;
+    border: 1px solid#1b4f72;
+    float: right;
+  }
+
+
+body {
+    background-color: LightCoral;
+}
+
+#zona-encabezado {
+    float: right;
+    width: 85%;
+    background-color: burlywood;
+}
+
+#zona-imagenes {
+    float: right;
+    width: 85%;
+    background-color: burlywood;
+    text-align: center;
+}
+
+#zona-cuerpo {
+    float: right;
+    width: 85%;
+    background-color: burlywood;
+}
+
+#zona-final {
+    float: right;
+    width: 85%;
+    background-color: cadetblue;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32pt;
+    color: DimGrey;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+    color: DimGrey;
+}
+
+.texto-encabezado {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    color: DimGrey;
+}
+
+img {
+    width: 30%;
+}
+
+.texto-cuerpo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    color: DimGrey;
+}
+
+.texto-final {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: DimGrey;
+}
